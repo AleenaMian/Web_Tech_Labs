@@ -1,0 +1,1 @@
+In this lab, I learned how to install Git and VS Code. I created repositories and pushed files to GitHub. I also learned how to create and merge branches. This helped me understand version control.
